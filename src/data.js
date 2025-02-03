@@ -1,4 +1,4 @@
-export const API_KEY = "API KEY";
+export const API_KEY = "your-key";
 
 // Number Converter fn (into million, etc)
 export const valueConverter = (value) => {
